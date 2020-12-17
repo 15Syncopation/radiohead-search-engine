@@ -24,9 +24,8 @@ mv_list = { 'Creep' : 							'https://youtu.be/XFkzRNyygfk',
 			'Go To Sleep' : 					'https://youtu.be/Fe6X9fLLp0Y',
 			'Push Pulk / Spinning Plates' : 	'https://youtu.be/ih2Ftq3hJoI'}
 
-all_mv = mv_list.values()
-all_mvs = len(all_mv)
+mv = list(mv_list.values())
 #webbrowser.open_new_tab(all_mv[2:5])
 
-for i in all_mv:
-	print(i[2])
+i = range(len(mv))
+print(i)
