@@ -6,8 +6,3 @@ Created 17 December 2020
 '''
 
 import songs
-
-
-
-radi = radiohead_members.values()
-radi = list(radi)
