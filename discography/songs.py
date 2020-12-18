@@ -27,5 +27,5 @@ mv_list = { 'Creep' : 							'https://youtu.be/XFkzRNyygfk',
 mv = list(mv_list.values())
 #webbrowser.open_new_tab(all_mv[2:5])
 
-i = range(len(mv))
-print(i)
+for i in mv[2:5]:
+	print(i)
