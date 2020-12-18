@@ -5,4 +5,6 @@ There is a list for discography, band members, links and resources for the infor
 Created 17 December 2020
 '''
 
-import songs
+
+radi = radiohead_members.values()
+radi = list(radi)
