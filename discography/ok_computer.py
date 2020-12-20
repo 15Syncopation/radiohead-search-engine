@@ -14,7 +14,7 @@ release_info = {'Released date' : '21 May 1997',
 				'Label' : '',
 				'Producer' : '',
 				'Singles' : ''}
-				
+
 track_listing = ['Airbag',
 				'Paranoid Android',
 				'Subterranean Homesick Alien',
@@ -28,9 +28,9 @@ track_listing = ['Airbag',
 				'Lucky',
 				'The Tourist']
 
-personel_band = {'' : '',}
+personel_band = {'Thom Yorke' : 'guitar',
+				'Jonny Greenwood' : 'guitar'}
 
-personel_production = {'' : '',}
+personel_production = {'' : ''}
 
-personel_design = {'' : '',}
-
+personel_design = {'' : ''}
