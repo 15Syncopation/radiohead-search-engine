@@ -1,3 +1,4 @@
+
 import webbrowser
 
 mv_list = { 'Creep' : 							'https://youtu.be/XFkzRNyygfk',                 
@@ -29,3 +30,4 @@ mv = list(mv_list.values())
 
 for i in mv[2:5]:
 	print(i)
+	webbrowser.open_new_tab(i)
