@@ -10,10 +10,10 @@ OK Computer received critical acclaim and has been cited by listeners, critics a
 release_info = {'Released date' : '21 May 1997',
 				'Recorded' : '4 September 1995 ("Lucky")\nJuly 1996 – March 1997',
 				'Studio' : "Canned Applause, Didcot, England \nSt Catherine's Court, Bath, England",
-				'Length' : '',
-				'Label' : '',
-				'Producer' : '',
-				'Singles' : ''}
+				'Length' : '53:21',
+				'Label' : 'Parlophone, Capitol',
+				'Producer' : 'Nigel Godrich',
+				'Singles' : 'Paranoid Android (26 May 1997), Karma Police (25 August 1997), Lucky (December 1997), No Surprises (12 January 1998)'}
 				
 track_listing = ['Airbag',
 				'Paranoid Android',
@@ -28,9 +28,19 @@ track_listing = ['Airbag',
 				'Lucky',
 				'The Tourist']
 
-personel_band = {'' : '',}
+personel_band = {'Thom Yorke' : 'lead vocals, guitars',
+				'Jonny Greenwood' : 'guitar, electronic, mellotron',
+				"Ed O'Brien" : 'guitar, backing vocals',
+				'Colin Greenwood' : 'bass',
+				'Phil Selway' : 'drums'}
 
-personel_production = {'' : '',}
+personel_production = {'Nigel Godrich' : 'committing to tape, audio level balancing',
+						'Gerard Navarro' : 'studio assistance',
+						'Jon Bailey' : 'studio assistance',
+						'Chris Scard' : 'studio assistance',
+						'Chris "King Fader" Blair' : 'mastering',
+						'Nick Ingman' : 'string conducting'}
 
-personel_design = {'' : '',}
-
+personel_design = {'Matt Bale' : 'additional artwork',
+					'Stanley Donwood' : 'pictures',
+					'The White Chocolate Farm' : 'pictures'}
