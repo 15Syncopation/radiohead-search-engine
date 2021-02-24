@@ -1,0 +1,23 @@
+
+overview = ''''''
+
+
+release_info = {'Released' : '',
+				'Recorded' : '',
+				'Studio' : '',
+				'Length' : '',
+				'Label' : '',
+				'Producer' : '',
+				'Singles' : ''}
+
+
+track_listing = []
+
+
+personel_band = {}
+
+
+personel_production = {}
+
+
+personel_design = {}

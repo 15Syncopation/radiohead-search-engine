@@ -1,0 +1,10 @@
+Compiling the files
+python3 01-pablo_honey.py
+python3 02-the_bends.py
+python3 03-ok_computer.py
+python3 04-kid-a.py
+python3 05-amnesiac.py
+python3 06-hail_to_the_thief.py
+python3 07-in_rainbows.py
+python3 08-king_in_the_limbs.py
+python3 09-a_moon_shaped_pool.py
