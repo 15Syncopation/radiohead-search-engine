@@ -10,11 +10,12 @@ The Bends received greater acclaim than Pablo Honey, elevating the band from an 
 
 release_info = {'Released date' : '13 March 1995',
 				'Recorded' : 'February–November 1994',
-				'Studio' : 'RAK, London \nThe Manor, Oxfordshire \nAbbey Road, London',
+				'Studio' : 'RAK, (London), The Manor (Oxfordshire), Abbey Road (London)',
 				'Length' : '48:37',
 				'Label' : 'Parlophone',
 				'Producer' : 'John Lecki',
 				'Singles' : 'My Iron Lung (26 September 1994), High and Dry / Planet Telex (27 February 1995), Fake Plastic Trees (15 May 1995), Just (21 August 1995), Street Spirit (Fade Out) (22 January 1996), The Bends (1996)'}
+
 
 track_listing = ['Planet Telex',
 				'The Bends',
@@ -29,11 +30,13 @@ track_listing = ['Planet Telex',
 				'Sulk',
 				'Street Spirit (Fade Out)']
 
+
 personel_band = {'Thom Yorke' : 'lead vocals, guitars, piano; string arrangements',
 				'Jonny Greenwood' : 'guitar, organ, recorder, synthesizer, piano; string arrangements',
-				"Ed O'Brien" : 'guitar, backing vocals',
+				"Ed O'Brien" : "guitar, backing vocals",
 				'Colin Greenwood' : 'bass',
 				'Phil Selway' : 'drums'}
+
 
 personel_production = {'John Leckie' : 'production (tracks 1, 2, 4–12), mixing, engineering',
 						'Radiohead' : 'production (tracks 3, 10), mixing',
@@ -45,9 +48,11 @@ personel_production = {'John Leckie' : 'production (tracks 1, 2, 4–12), mixing
 						'Guy Massey' : 'engineering assistance',
 						'Shelley Saunders' : 'engineering assistance',
 						'Chris Blair' : 'mastering'}
-						
+
+
 additional_musicians = {'Caroline Lavelle' : 'cello',
 						'John Matthias' : 'viola, violin'}
+
 
 personel_design = {'Stanley Donwood' : 'fine art',
 					'The White Chocolate Farm' : 'fine art',
