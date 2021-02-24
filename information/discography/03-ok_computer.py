@@ -7,14 +7,16 @@ Despite lowered sales estimates by EMI, who deemed the record uncommercial and d
 
 OK Computer received critical acclaim and has been cited by listeners, critics and musicians as one of the greatest albums of all time. It was nominated for the Album of the Year and won Best Alternative Music Album at the 1998 Grammy Awards. It was also nominated for Best British Album at the 1998 Brit Awards. The album initiated a stylistic shift in British rock away from Britpop toward melancholic, atmospheric alternative rock that became more prevalent in the next decade. In 2014, it was included by the Library of Congress in the National Recording Registry as "culturally, historically, or aesthetically significant".'''
 
+
 release_info = {'Released date' : '21 May 1997',
-				'Recorded' : '4 September 1995 ("Lucky")\nJuly 1996 – March 1997',
-				'Studio' : "Canned Applause, Didcot, England \nSt Catherine's Court, Bath, England",
+				'Recorded' : '4 September 1995 ("Lucky"), July 1996 – March 1997',
+				'Studio' : "Canned Applause (Didcot, England), St Catherine's Court (Bath, England)",
 				'Length' : '53:21',
 				'Label' : 'Parlophone, Capitol',
 				'Producer' : 'Nigel Godrich',
 				'Singles' : 'Paranoid Android (26 May 1997), Karma Police (25 August 1997), Lucky (December 1997), No Surprises (12 January 1998)'}
-				
+
+
 track_listing = ['Airbag',
 				'Paranoid Android',
 				'Subterranean Homesick Alien',
@@ -28,11 +30,13 @@ track_listing = ['Airbag',
 				'Lucky',
 				'The Tourist']
 
+
 personel_band = {'Thom Yorke' : 'lead vocals, guitars',
 				'Jonny Greenwood' : 'guitar, electronic, mellotron',
-				"Ed O'Brien" : 'guitar, backing vocals',
+				"Ed O'Brien" : "guitar, backing vocals",
 				'Colin Greenwood' : 'bass',
 				'Phil Selway' : 'drums'}
+
 
 personel_production = {'Nigel Godrich' : 'committing to tape, audio level balancing',
 						'Gerard Navarro' : 'studio assistance',
@@ -40,6 +44,7 @@ personel_production = {'Nigel Godrich' : 'committing to tape, audio level balanc
 						'Chris Scard' : 'studio assistance',
 						'Chris "King Fader" Blair' : 'mastering',
 						'Nick Ingman' : 'string conducting'}
+
 
 personel_design = {'Matt Bale' : 'additional artwork',
 					'Stanley Donwood' : 'pictures',
