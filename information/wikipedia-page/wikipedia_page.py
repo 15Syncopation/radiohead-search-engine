@@ -1,6 +1,5 @@
-
 '''
-radiohead_information.py file
+wikipedia_page.py file
 '''
 
 radiohead_overview = '''Radiohead are an English rock band formed in Abingdon, Oxfordshire, in 1985. The band consists of Thom Yorke (vocals, guitar, piano, keyboards), brothers Jonny Greenwood (lead guitar, keyboards, other instruments) and Colin Greenwood (bass), Ed O'Brien (guitar, backing vocals) and Philip Selway (drums, percussion). They have worked with producer Nigel Godrich and cover artist Stanley Donwood since 1994. Radiohead's experimental approach is credited with advancing the sound of alternative rock.
@@ -15,6 +14,6 @@ As of 2011, Radiohead have sold more than 30 million albums worldwide. Their awa
 radiohead_members = {"Thom Yorke" : 'vocals, guitar, piano, keyboard',
 					"Jonny Greenwood" : 'guitar, keyboards, ondes Martenot, orchestral arrangements',
 					"Colin Greenwood" : 'bass guitar',
-					"Ed O'Brien" : 'guitar, effects, backing vocals',
+					"Ed O'Brien" : "guitar, effects, backing vocals",
 					"Philip Selway" : 'drums, percussion',
-					"Clive Deamer" : 'drums, percussion'}		# Clive Deamer is a additional live member
+					"Clive Deamer" : 'drums, percussion'}	# Clive Deamer is a additional live member
