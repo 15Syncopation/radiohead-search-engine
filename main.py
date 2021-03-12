@@ -5,40 +5,38 @@ There is a list for discography, band members, links and resources for the infor
 Created 17 December 2020
 '''
 
-from information.discography import songs
-import messages
+import re
 import webbrowser
 import time
-
-# List of commands
-commands_list = ['watch', 'read', 'search']
+from information.discography import songs
 
 
-# Problem #1
-# Add a dictionary that start with 'watch' string on the first place
-# the result should like this 'watch creep'
+# Commands: watch, read, search
 
-# PROBLEM SOLVED by Loocid (https://stackoverflow.com/users/2987253/loocid) on Stack Overflow (27/01/2020)
-# https://stackoverflow.com/questions/65912708/is-there-an-way-to-appending-a-string-to-each-list-on-first-position
+mv_links = list(songs.mv_list.values())		# Music videos links
+mv_titles = list(songs.mv_list.keys())			# Music videos titles
 
-mvl = list(songs.mv_list.values())		# Music videos links
-mv = list(songs.mv_list.keys())			# Music videos titles
-
-lowercase_mv = [val.lower() for val in mv]	# Lowercasing all the music videos titles
-
-string_WATCH = 'watch '
-command_WATCH = [string_WATCH + i for i in lowercase_mv]
+mv_titles_lowercase = [val.lower() for val in mv_titles]	# Lowercasing all the music videos titles
 
 
-# Main CLI
-while True:
-	usr = input("> ").lower()
+class user_interaction():
+	def ui():
+		while True:
+			user_input = input('> ')
+			
+			if re.search('^watch', user_input):
+				user_interaction.watch(user_input)
+				
+			elif user_input == 'quit':
+				break
 
-	if usr in command_WATCH:
-		mv_index = command_WATCH.index(usr)
-		print(f'Opening {usr}')
-		time.sleep(2)
-		webbrowser.open_new_tab(mvl[mv_index])
-
-	elif usr == 'quit':
-		break
+	
+	def watch(song):
+		song.lower()
+		
+		if re.search('^watch', song) and song[6:] not in mv_titles_lowercase:
+			print(f'There is no {song[6:]} music video')
+			
+		elif re.search('^watch', song):
+			print(f'Opening {song[6:]} music video')
+			webbrowser.open_new_tab(mv_links[mv_titles_lowercase.index(song[6:])])
