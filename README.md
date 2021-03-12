@@ -10,4 +10,4 @@ This program is still in development, don't expect too much. It has a lot of mis
 Your contributions, not always a code, it can be a links to a song, article, news, interview, UI layout, feedback, report of errors, etc.; it's really helpfull for the program.
 So, if you have any ideas, suggestions, feedback, good codes, good designs that can be helpfull to the program, don't hesitate to contribute it!
 
-**It's from the community, to the community.**
+**It's from the community, to everyone.**
