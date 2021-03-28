@@ -1,5 +1,5 @@
-# Radiohead Search Engine
-Just another Wiki program, but I called it "Search Engine"
+# Radiohead Wiki
+Just another Wiki program. Used to named "Radiohead Search Engine"
 
 ## What's this program do?
 Well, it's serve like other wikis, it has informations about the band, song lyrics, music videos, interviews, article, etc.
