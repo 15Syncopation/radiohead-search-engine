@@ -1,7 +1,0 @@
-This file explained all from root directory.
-
-main.py
-- This file is the main file of the Radiohead Search Engine program.
-
-messages.py
-- Contains all the messages for about, welcome message. commands, help documentation, and error.

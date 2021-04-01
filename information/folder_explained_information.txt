@@ -1,8 +1,0 @@
-This folder contains all of their information (but not always complete, so I your contribution will helping me so much).
-This folder contains all the necessary information to give the end user (or maybe developer) to gain information about their materials.
-
-discography
-- This folder contains songs, and albums.
-
-wikipedia-page
-- This folder contains a Radiohead's materials information taken from Wikipedia site. (THANK YOU SO MUCH WIKIPEDIA CONTRIBUTOR!!! LOVE YOU ALL!!!)
